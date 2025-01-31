@@ -1,9 +1,6 @@
 # Sejam Bem Vindos!
 
-
-
-
-Bem vindos ao Meu Perfil do Github, Meu nome é Jonathan Reinaldo Eichenberger.
+Muito Prazer, Meu nome é Jonathan Reinaldo Eichenberger.
 
 Sou estudante de Desenvolvimento de Sistemas, atualmente em transição de carreira da metalurgia para o desenvolvimento de software. Tenho um forte foco em resolver problemas de forma criativa e eficiente, tentando sempre aplicar as melhores práticas de programação em meus projetos. Estou sempre em busca de aprimorar minhas habilidades e aberto a novos desafios na área de desenvolvimento.
 

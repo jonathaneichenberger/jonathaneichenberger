@@ -9,7 +9,7 @@ Sou estudante de Desenvolvimento de Sistemas, atualmente em transição de carre
 - 📦 Frameworks e Bibliotecas: Spring Boot | JPA | Hibernate | Lombok | Node.js | Angular
 - 🔗 Desenvolvimento de APIs: API REST / REST full | Postman | Swagger
 - 🗄️ Bancos de Dados Relacionais: MySQL | PostgreSQL
-- 🛠️ Ferramentas e Controle de Versão: Git/Git | HubMaven
+- 🛠️ Ferramentas e Controle de Versão: Git/Github | HubMaven
 - 🎨 Desenvolvimento Web: HTML5 | CSS3
 
 🔹 Conhecimentos Teóricos (Conceitos estudados e aplicados parcialmente em projetos ou ambiente acadêmico)
@@ -21,9 +21,9 @@ Sou estudante de Desenvolvimento de Sistemas, atualmente em transição de carre
 
 ### Conecte-se comigo
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/djohnni)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](djohnni@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.https://www.linkedin.com/in/jonathan-eichenberger/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/djohnni)
+
 
 ### Habilidades
 #

@@ -3,7 +3,24 @@
 
 
 
-Meu nome é Jonathan Reinaldo Eichenberger. Sou estudante de Desenvolvimento de Sistemas, atualmente em transição de carreira da metalurgia para o desenvolvimento de software. Possuo conhecimentos intermediários em Java e Lógica de Programação, e habilidades básicas em MySQL, HTML5, CSS3, Python e C++. Tenho um forte foco em resolver problemas de forma criativa e eficiente, tentando sempre aplicar as melhores práticas de programação em meus projetos. Estou sempre em busca de aprimorar minhas habilidades e aberto a novos desafios na área de desenvolvimento, onde posso contribuir para equipes e projetos inovadores.
+Bem vindos ao Meu Perfil do Github, Meu nome é Jonathan Reinaldo Eichenberger.
+
+Sou estudante de Desenvolvimento de Sistemas, atualmente em transição de carreira da metalurgia para o desenvolvimento de software. Tenho um forte foco em resolver problemas de forma criativa e eficiente, tentando sempre aplicar as melhores práticas de programação em meus projetos. Estou sempre em busca de aprimorar minhas habilidades e aberto a novos desafios na área de desenvolvimento.
+
+🔹 Conhecimentos Práticos (Experiência aplicada em projetos e desenvolvimento hands-on):
+- 🖥️ Linguagens de Programação: Java | JavaScript | TypeScript
+- 📦 Frameworks e Bibliotecas: Spring Boot | JPA | Hibernate | Lombok | Node.js | Angular
+- 🔗 Desenvolvimento de APIs: API REST / REST full | Postman | Swagger
+- 🗄️ Bancos de Dados Relacionais: MySQL | PostgreSQL
+- 🛠️ Ferramentas e Controle de Versão: Git/Git | HubMaven
+- 🎨 Desenvolvimento Web: HTML5 | CSS3
+
+🔹 Conhecimentos Teóricos (Conceitos estudados e aplicados parcialmente em projetos ou ambiente acadêmico)
+
+- 🧪 Testes: JUnit | Mockito
+- 🖥️ Contêineres e Orquestração: Docker | Kubernetes
+- 🚀 DevOps e Metodologias Ágeis: CI/CD | Scrum | Kanban
+- 🗄️ Banco de Dados NoSQL: MongoDB
 
 ### Conecte-se comigo
 

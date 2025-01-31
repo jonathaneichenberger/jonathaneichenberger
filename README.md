@@ -14,6 +14,7 @@ Sou estudante de Desenvolvimento de Sistemas, atualmente em transição de carre
 
 🔹 Conhecimentos Teóricos (Conceitos estudados e aplicados parcialmente em projetos ou ambiente acadêmico)
 
+- 🖥️ Linguagens de Programação: C++ | C# | Python
 - 🧪 Testes: JUnit | Mockito
 - 🖥️ Contêineres e Orquestração: Docker | Kubernetes
 - 🚀 DevOps e Metodologias Ágeis: CI/CD | Scrum | Kanban
@@ -37,8 +38,6 @@ Sou estudante de Desenvolvimento de Sistemas, atualmente em transição de carre
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ##
 ### GitHub Stats

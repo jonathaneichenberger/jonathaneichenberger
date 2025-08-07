@@ -2,7 +2,7 @@
 
 Muito Prazer, Meu nome é Jonathan Reinaldo Eichenberger.
 
-Sou estudante de Desenvolvimento de Sistemas, atualmente em transição de carreira da metalurgia para o desenvolvimento de software. Tenho um forte foco em resolver problemas de forma criativa e eficiente, tentando sempre aplicar as melhores práticas de programação em meus projetos. Estou sempre em busca de aprimorar minhas habilidades e aberto a novos desafios na área de desenvolvimento.
+Estou no último semestre do curso Técnico em Desenvolvimento de Sistemas e no segundo semestre do Técnologo em Análise e Desenvolvimento de Sistemas, atualmente em transição de carreira da metalurgia para o desenvolvimento de software. Tenho um forte foco em resolver problemas de forma criativa e eficiente, tentando sempre aplicar as melhores práticas de programação em meus projetos. Estou sempre em busca de aprimorar minhas habilidades e aberto a novos desafios na área de desenvolvimento.
 
 🔹 Conhecimentos Práticos (Experiência aplicada em projetos e desenvolvimento hands-on):
 - 🖥️ Linguagens de Programação: Java | JavaScript | TypeScript

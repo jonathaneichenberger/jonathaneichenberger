@@ -2,11 +2,11 @@
 
 Muito Prazer, Meu nome é Jonathan Reinaldo Eichenberger.
 
-Estou no último semestre do curso Técnico em Desenvolvimento de Sistemas e no segundo semestre do Técnologo em Análise e Desenvolvimento de Sistemas, atualmente em transição de carreira da metalurgia para o desenvolvimento de software. Tenho um forte foco em resolver problemas de forma criativa e eficiente, tentando sempre aplicar as melhores práticas de programação em meus projetos. Estou sempre em busca de aprimorar minhas habilidades e aberto a novos desafios na área de desenvolvimento.
+Formado como Técnico em Desenvolvimento de Sistemas e cursando o 3º semestre da Graduação em Análise e Desenvolvimento de Sistemas, atualmente em transição de carreira da metalurgia para o desenvolvimento de software. Tenho um forte foco em resolver problemas de forma criativa e eficiente, tentando sempre aplicar as melhores práticas de programação em meus projetos. Estou sempre em busca de aprimorar minhas habilidades e aberto a novos desafios na área de desenvolvimento.
 
 🔹 Conhecimentos Práticos (Experiência aplicada em projetos e desenvolvimento hands-on):
-- 🖥️ Linguagens de Programação: Java | JavaScript | TypeScript
-- 📦 Frameworks e Bibliotecas: Spring Boot | JPA | Hibernate | Lombok | Node.js | Angular
+- 🖥️ Linguagens de Programação: Java | JavaScript | TypeScript | Python
+- 📦 Frameworks e Bibliotecas: Spring Boot | JPA | Hibernate | Lombok | Node.js | Angular | Django
 - 🔗 Desenvolvimento de APIs: API REST / REST full | Postman | Swagger
 - 🗄️ Bancos de Dados Relacionais: MySQL | PostgreSQL
 - 🛠️ Ferramentas e Controle de Versão: Git/Github | HubMaven
@@ -14,7 +14,7 @@ Estou no último semestre do curso Técnico em Desenvolvimento de Sistemas e no 
 
 🔹 Conhecimentos Teóricos (Conceitos estudados e aplicados parcialmente em projetos ou ambiente acadêmico)
 
-- 🖥️ Linguagens de Programação: C++ | C# | Python
+- 🖥️ Linguagens de Programação: C++ | C
 - 🧪 Testes: JUnit | Mockito
 - 🖥️ Contêineres e Orquestração: Docker | Kubernetes
 - 🚀 DevOps e Metodologias Ágeis: CI/CD | Scrum | Kanban
